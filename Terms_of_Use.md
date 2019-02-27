@@ -1,4 +1,5 @@
-Terms of Use
+# Terms of Use
+
 Effective date: February 17, 2018
 
 Confirmation and acceptance of the terms of service
